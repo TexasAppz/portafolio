@@ -1,0 +1,77 @@
+html{
+   background-color: #0277BD;
+ }
+ /* Code for the box class */
+ .box
+ {
+     border-style: solid;
+     border-width: 5px;
+     border-color: #FFC400;
+  }
+
+.col{
+    display: inline-block;
+     padding: 10px;
+  }
+
+#text-contact{
+  width: 100%;
+  text-align: justify;
+  font-family:Arial, Helvetica, sans-serif;
+  color: #BDBDBD;
+}
+
+#contact{
+  display: flex;
+  justify-content: space-between;
+}
+
+#bio{
+  text-align: center;
+  color: #212121;
+  font-family:Arial, Helvetica, sans-serif;
+  }
+
+#bio-description{
+  text-align: justify;
+  line-height: 110%;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: #BDBDBD;
+}
+
+#link-title{
+  text-align: center;
+  color: #212121;
+  font-family:Arial, Helvetica, sans-serif;
+}
+#links{
+  display: flex;
+  justify-content: space-around;
+  font-family:Arial, Helvetica, sans-serif;
+}
+#project-title{
+  text-align:center;
+  color: #212121;
+}
+
+#project-description{
+  color: #212121;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+#cats-description{
+  text-align: justify;
+  color: #BDBDBD;
+}
+#voter-description{
+  text-align: justify;
+  color: #BDBDBD;
+}
+#path-description{
+  text-align: justify;
+  color: #BDBDBD;
+}
